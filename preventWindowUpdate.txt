@@ -1,0 +1,43 @@
+1.Ctrl+I
+Go to update setting and make sure defer upgrades is disable after setting for prevent window update
+
+2.services.msc
+disable window update service
+
+3.mmc or gpedit.msc from ctrl+R
+
+click on add or remove Snap-ins from file menu and add Group policy service
+add--finish  --ok
+
+after click on Computer configuration from left side---Administrative Templates--windows component--windows update--
+
+select option enable and then select 2 nd option Notify me and notify for install.
+
+it will work on window 10 pro
+
+
+4.Regedit
+
+HKEY-Local-Machin---Software--Policy--Microsoft--Windows--WindowsUpdate(If this option is not available please create it)
+
+and click on AuOPtion and change the value data
+00000002/3/4
+7 times 0
+2.notify install notify downlaod
+3.auto diownload and notify to install
+4.auto download and install
+
+enter 2 after 7 times 0
+
+WindowsUpdate option creation steps
+Right Click om windows--new--Give the name WindowsUpdate----create new key---then click AUOptions.
+
+5.Task Schedular
+
+Windows---WindowsUpdate--Disbale assistant option
+
+
+References:--
+
+https://youtu.be/1mGZYx34tr4
+and other link related to windows update on youtube
