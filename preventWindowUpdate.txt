@@ -36,6 +36,20 @@ Right Click om windows--new--Give the name WindowsUpdate----create new key---the
 
 Windows---WindowsUpdate--Disbale assistant option
 
+6.to disable watermark "Activate windows----------"
+1.gO TO SERVICES.msc and stop the software protection properties
+2.Go to regedit a
+ 1.HKEY-LOCAL-Machin
+ 2.System
+ 3.controlcurrentset
+ 4.SERVICES
+ 5.sppsvc----start---and set value from 2 to 4
+
+
+7.cmd mode
+ 1.slmgr /ipk check this command in snapshot to activate the Windows key
+
+
 
 References:--
 
