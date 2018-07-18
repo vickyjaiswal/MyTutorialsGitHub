@@ -1,0 +1,66 @@
+             Technologies Information
+________________________________________________
+Spring Kafka
+
+used to transfer message from one machine to another .
+_______________________________________________________
+
+Apache storm framework
+It consumes the data from sources(Spouts) and passess it to pipeline(Bolts).
+_____________________________________________________________________________
+File watcher Api
+JNotify
+Apache Commons IO
+
+above given api used to monitor the file changes if file changes from other source and it is already open then navigating to that file again will ask want to modify the file it has been changed.
+_____________________________________________________________________________________
+Common utilities framework by apache 
+
+Apachecommonlongging framework
+
+________________________________
+spark is No-Sql database---to process huge amount of data on database
+
+Hadoop, Spark and Storm are open source processing frameworks.
+
+Hadoop, Spark and Storm can be used for real time BI and big data analytics.
+___________________________________________________________________
+SPring securities framework
+
+it simplifies the access control among the users and provide the right access for which they meant for without intervention in others.
+
+______________________________________________________________________
+ZooKeeper
+
+ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications.on.
+
+__________________________________________________________________
+RSA® Adaptive Authentication
+
+Manage fraud and digital risk across multi-channel environments without impacting customers or transactions with RSA Adaptive Authentication.
+______________________________________________________________________
+Rabbit MQ Messaging framework
+
+___________________________________________
+netCore vendor 
+
+integrate SMS Gateway solution provided by netCore for sending OTP
+_________________________________________________________________
+Virus scanners tools
+
+Virus scanners will be used checking the file upload from the fraud reporting portal.
+____________________________________________________
+
+OWASP Top Ten Project
+
+Organisation which provides the stander document to be followed by the Companies while developing the web application to minimize the security risk.
+
+For this we should use the HDIV 
+________________________________________________________
+HDIV (HTTP Data Integrity Validator)
+_______________________________________________________________
+Application should be host on ssl for security reason.
+________________________________________________________
+https://www.luckyryan.com/2013/02/14/spring-mvc-form-validation-with-hdiv-http-data-integrity-validator/
+above link will demonstrat the the use HDIV
+____________________________________________________________________________________________________________________
