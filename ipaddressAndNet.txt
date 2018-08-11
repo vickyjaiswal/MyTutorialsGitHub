@@ -1,4 +1,4 @@
-1.>Wifi is connected but access to internet
+1.>Wifi is connected but not access to internet
 ans:-
 
 ncpa.cpl from command prompt
@@ -95,6 +95,42 @@ IP ADDRESS Space is managed globally by IANA.
 
 ___________________________________
 ODC(OFFSHORE DEDICATED CENTER)
+
+__________________________
+ssavr.com---To share the multimedia files
+
+VirusTotal.com----to scan the s/w to check virus infection. File should be always in zip format. It also check infection of virus in URL/Website and security of website and url
+
+office.com----To use the Microsoft ofice feature if pc dont have Microsoft office suit
+
+prnt.sc
+
+To share the screen shot 
+
+
+To save the folder without Name
+
+1.ALT+0760
+2.To make the visible of folder using properties and select blank icon.
+
+
+To create table in word using 
++++-------++++
+
+we cant name of folder by the name of 
+con
+con1
+con2
+con3
+prx
+LPT3
+
+
+
+
+
+
+
 
 
 
